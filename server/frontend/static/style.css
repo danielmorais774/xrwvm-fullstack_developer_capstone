@@ -124,3 +124,20 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.contact-img {
+    width: 20%;
+}
+
+.contact-title {
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(97, 64, 128);
+    margin-bottom: 5px;
+}
+
+.contact-description {
+    font-size: 16px;
+    color: rgb(97, 64, 128);
+    margin-bottom: 5px;
+}
